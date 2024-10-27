@@ -1,0 +1,7 @@
+C:\Users\Marcos\source\repos\CalculadoraPlus\bin\Debug\CalculadoraPlus.exe.config
+C:\Users\Marcos\source\repos\CalculadoraPlus\bin\Debug\CalculadoraPlus.exe
+C:\Users\Marcos\source\repos\CalculadoraPlus\bin\Debug\CalculadoraPlus.pdb
+C:\Users\Marcos\source\repos\CalculadoraPlus\obj\Debug\CalculadoraPlus.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\CalculadoraPlus\obj\Debug\CalculadoraPlus.exe
+C:\Users\Marcos\source\repos\CalculadoraPlus\obj\Debug\CalculadoraPlus.pdb
+C:\Users\Marcos\source\repos\CalculadoraPlus\obj\Debug\CalculadoraPlus.csproj.AssemblyReference.cache
